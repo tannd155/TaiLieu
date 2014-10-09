@@ -1,20 +1,12 @@
 (function () {
     'use strict';
-    //Require dbconfig
+
     var db = require('../config/app.config.db');
-    var schema = db.mongoose.Schema;
+
+    var schema  = require('../config/app.config.schema');
     //Create Counter Schema
-    var counterSchema = new schema({
-        '_id' : {
-            type : String,
-            unique : true,
-            required : true
-        },
-        'count_number' : {
-            type : Number,
-            required : true
-        }
-    });
+    var counterSchema = schema.counterSchema;
+
     // Date Excel Luu image txt
     //getData static method
     counterSchema.statics.getCount = function (name, callback){
@@ -22,7 +14,7 @@
             callback(data);
         });
     }
-    //getCount static method
+    //Count Increment static method
     counterSchema.statics.incCount = function (name, callback){
         this.model('teacher1s').findOneAndUpdate({
             '_id' : name},
