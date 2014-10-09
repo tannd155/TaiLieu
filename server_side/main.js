@@ -38,7 +38,11 @@
             else { res.end(JSON.stringify({'result' : 'false', 'message' : 'Them giao vien khong thanh cong!'})); };
         });
     });
-
+    
+    app.get('/document/getListDoc/', function(req, res) {
+    
+    });
+    
 }).call(this);
 
 
