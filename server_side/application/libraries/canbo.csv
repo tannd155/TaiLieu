@@ -1,0 +1,277 @@
+f_manv,f_holot,f_ten,f_mabm,f_ngaysinh,f_phai,f_holotcbv,f_tencbv,f_tenbmvn,f_namnu
+00010,LUONG THI,LY,DL,22/12/55,N,L?ªng Th?,L?,Du l?ch (AV),Nö
+00024,TRAN TUY,NGA,VKD,01/06/48,N,Tr€n T¢y,Nga,VP Khoa QTKD,Nö
+00030,DANG THI HUE,TRAN,TV,02/11/73,N,?’ng Th? Hu™,Tr?n,Trung V?n,Nö
+00031,BUI THI THANH,TRUC,AV,07/11/70,N,B‹i Th? Thanh,Tr¢c,Anh V?n,Nö
+00033,VU THANH,HIEN,VCN,  /  /,,V• Thanh,Hi?n,VP Khoa C®ng ngh™ Th®ng tin,Nam
+00037,TRAN THANH,NHAN,VDP,07/04/73,N,Tr€n Thanh,Nhæn,VP Khoa NN&VHP?,Nö
+00040,NGUYEN HOA,BINH,VP1,  /  /,,Nguy?n Háa,B?nh,Pháng ?æo t?o - NCKH - TB,Nam
+00045,DO DINH,THANH,TH,01/07/71,,?‡ ??nh,Thanh,Tin H„c,Nam
+00046,VU QUOC,ANH,VQH,04/09/72,,V• QuŠc,Anh,VP Khoa QHQT,Nam
+00049,NGUYEN PHUOC,DAI,TH,  /  /,,Nguy?n Ph?¡c,??i,Tin H„c,Nam
+00052,NGUYEN NGOC,HUAN,VKD,  /  /,,Nguy?n Ng„c,Hu?n,VP Khoa QTKD,Nam
+00058,TRAN VAN,TIENG,VDP,05/09/60,,Tr€n V?n,Ti?ng,VP Khoa NN&VHP?,Nam
+00066,LE THANH,PHONG,TH,  /  /,,L¦ Thanh,Phong,Tin H„c,Nam
+00073,HO THUY,DUNG,VQH,26/06/80,N,H† Th‹y,Dung,VP Khoa QHQT,Nö
+00093,DANG QUOC,TUAN,TH,  /  /,,?’ng QuŠc,Tu?n,Tin H„c,Nam
+00101,LE TUAN,SON,VB2,  /  /,,L¦ Tu?n,Sªn,VP Khoa V?n b¯ng 2,Nam
+00107,HOANG THI,HANH,VLL,  /  /,N,Hoæng Th?,H?nh,VP Khoa L? lu?n Ch?nh tr?,Nö
+00112,DINH THI PHUONG,THAO,VCN,  /  /,N,?inh Th? Ph?ªng,Th?o,VP Khoa C®ng ngh™ Th®ng tin,Nö
+00113,NGUYEN THI VINH,TRAN,VP3,  /  /,N,Nguy?n Th? Všnh,Tr?n,Pháng ?N-TH-HC,Nö
+00121,LE VAN,LUAN,VLL,  /  /,,L¦ V?n,Lu?n,VP Khoa L? lu?n Ch?nh tr?,Nam
+00130,NGUYEN NGOC CHIEU,ANH,VDP,04/01/83,N,Nguy?n Ng„c Chi¦u,Anh,VP Khoa NN&VHP?,Nö
+00131,PHAM THE,CHAU,VNN,06/04/79,,Ph?m Th?,Ch?u,VP Khoa NN,Nam
+00156,NGUYEN THINH KHANH,NGUYEN,VDL,05/09/80,N,Nguy?n Th?nh Kh?nh,Nguy¦n,VP Khoa Du l?ch Kh?ch s?n,Nö
+00159,TRAN MY,UYEN,VNN,30/10/62,N,Tr€n M?,Uy¦n,VP Khoa NN,Nö
+00161,TRAN NGOC,HA,VNN,24/09/85,N,Tr€n Ng„c,Hæ,VP Khoa NN,Nö
+00168,PHAM THI THANH,UYEN,VDL,26/03/75,N,Ph?m Th? Thanh,Uy¦n,VP Khoa Du l?ch Kh?ch s?n,Nö
+00170,NGUYEN LY PHUONG,ANH,VQH,16/11/85,N,Nguy?n L? Ph?ªng,Anh,VP Khoa QHQT,Nö
+00196,HA THI NGOC,ANH,VQH,21/09/87,N,Hæ Th? Ng„c,Anh,VP Khoa QHQT,Nö
+00197,NGUYEN HOANG VUONG,ANH,VB2,28/07/87,N,Nguy?n Hoæng V?ªng,Anh,VP Khoa V?n b¯ng 2,Nö
+00212,PHAM THUY HUONG,TRIEU,VBD,  /  /,N,Ph?m Th¢y H?ªng,Tri¦u,VP Ban K?CL&TTGD,Nö
+00218,NGUYEN HONG,HAI,VLL,  /  /,,Nguy?n H†ng,H?i,VP Khoa L? lu?n Ch?nh tr?,Nam
+MANV0,HO VA LOT,TEN,VP1,31/12/60,,H„ Væ Lot,T¦n,Pháng ?æo t?o - NCKH - TB,Nam
+00011,TRAN THI LAN,ANH,KA,19/11/65,N,Tr€n Th? Lan,Anh,Kinh Th?ªng (AV),Nö
+00012,LY THI THANH,HUONG,PV,05/09/54,N,L? Th? Thanh,H?ªng,Ph?p V?n,Nö
+00013,PHAM THI PHI,YEN,PV,15/04/43,N,Ph?m Th? Phi,Y?n,Ph?p V?n,Nö
+00018,DANG THI THANH,QUI,AV,01/12/57,N,?’ng Th? Thanh,Qu?,Anh V?n,Nö
+00020,NGUYEN THI DUC,TAN,AV,05/06/48,N,Nguy?n Th? ??c,T?n,Anh V?n,Nö
+00021,LE THU,THUY,AV,07/10/35,N,L¦ Thu,Th¤y,Anh V?n,Nö
+00022,DANG THI THANH,LAN,TV,19/08/72,N,?’ng Th? Thanh,Lan,Trung V?n,Nö
+00023,NGUYEN VAN,LY,KA,  /  /,,Nguy?n V?n,L?,Kinh Th?ªng (AV),Nam
+00029,NGUYEN TRUNG,THAO,AV,  /  /,N,Nguy?n Trung,Th?o,Anh V?n,Nö
+00034,LE THI ANH,HONG,PV,28/04/56,N,L¦ Th? ?nh,H†ng,Ph?p V?n,Nö
+00038,NGUYEN VAN,THANG,NB,28/12/46,,Nguy?n V?n,Th?ng,Nh?t B?n,Nam
+00041,DOAN NGOC,DIEP,AV,28/06/73,N,?oæn Ng„c,?i™p,Anh V?n,Nö
+00044,PHAM XUAN,KIEN,TH,  /  /,,Ph?m Xu?n,Ki¦n,Tin H„c,Nam
+00047,LE,BACH,VLL,  /  /,,L¦,B?ch,VP Khoa L? lu?n Ch?nh tr?,Nam
+00048,NGUYEN DINH,CHIEN,DP,13/02/77,,Nguy?n ??nh,Chi?n,?®ng Ph?ªng,Nam
+00051,PHAM THI DUYEN,HONG,TV,19/06/73,N,Ph?m Th? Duy¦n,H†ng,Trung V?n,Nö
+00057,PHAN MINH,THUAN,DP,05/12/57,,Phan Minh,Thu?n,?®ng Ph?ªng,Nam
+00059,VO MAI BACH,TUYET,DP,12/04/42,N,Vƒ Mai B?ch,Tuy?t,?®ng Ph?ªng,Nö
+00061,PHAM MINH,DUNG,TH,  /  /,,Ph?m Minh,D•ng,Tin H„c,Nam
+00063,THAI MY,LINH,DL,13/03/75,N,Th?i M,Linh,Du l?ch (AV),Nö
+00064,THAI VAN,NAM,TV,20/07/41,N,Th?i V?n,Nam,Trung V?n,Nö
+00065,CHAU A,PHI,DP,  /  /,,Ch?u A,Ph?,?®ng Ph?ªng,Nam
+00068,NGO THANH,PHUONG,QH,07/11/77,N,Ng® Thanh,Ph?Œng,Quan h™ QuŠc t?,Nö
+00069,NGUYEN DANH,SI,AV,04/05/40,N,Nguy?n Danh,Sš,Anh V?n,Nö
+00071,DAO THI,YEN,AV,03/11/54,N,?æo Th?,Y?n,Anh V?n,Nö
+00072,HUYNH VAN,BINH,TH,  /  /,,Hu£nh V?n,B?nh,Tin H„c,Nam
+00074,DO VAN,HAO,TH,  /  /,,?‡ V?n,Hæo,Tin H„c,Nam
+00081,NGUYEN QUY,NGHIA,TV,05/11/79,,Nguy?n Qu?,Nghša,Trung V?n,Nam
+00083,LY DAN,THANH,KA,  /  /,N,L? ?an,Thanh,Kinh Th?ªng (AV),Nö
+00086,NGUYEN THAI,DUC,KA,  /  /,,Nguy?n Th?i,??c,Kinh Th?ªng (AV),Nam
+00088,DAO THI MY,KHANH,DP,28/03/77,N,?æo Th? M,Khanh,?®ng Ph?ªng,Nö
+00089,TRAN NGUYEN SONG,KHANH,DL,  /  /,,Tr€n Nguy?n Song,Kh?nh,Du l?ch (AV),Nam
+00091,DO HUNG,MANH,DP,29/09/79,,?‡ H‹ng,M?nh,?®ng Ph?ªng,Nam
+00092,HUYNH,SANG,DP,22/04/55,,Hu£nh,Sang,?®ng Ph?ªng,Nam
+00102,VO VAN THANH,THAN,DP,14/04/84,,Vƒ V?n Thænh,Th?n,?®ng Ph?ªng,Nam
+00103,LANG UY,TIN,TH,  /  /,,L?ng Uy,T?n,Tin H„c,Nam
+00104,TON QUANG,TOAI,TH,  /  /,,T®n Quang,To?i,Tin H„c,Nam
+00105,HUYNH THI CHIEU,UYEN,TV,19/10/69,N,Hu£nh Th? Chi¦u,Uy¦n,Trung V?n,Nö
+00111,NGUYEN THI NGOC,PHUONG,TV,27/04/76,N,Nguy?n Th? Ng„c,Ph?ªng,Trung V?n,Nö
+00115,TRAN THI VAN,YEN,DP,11/11/77,N,Tr€n Th? V?n,Y¦n,?®ng Ph?ªng,Nö
+00119,NGUYEN QUOC,HUNG,KA,  /  /,,Nguy?n QuŠc,H?ng,Kinh Th?ªng (AV),Nam
+00122,LE THI HONG,NGA,TV,01/01/71,N,L¦ Th? H†ng,Nga,Trung V?n,Nö
+00123,VO THI VAN,NGA,AV,29/11/56,N,Vƒ Th? V?n,Nga,Anh V?n,Nö
+00124,NGUYEN THI MINH,PHUONG,DP,22/12/82,N,Nguy?n Th? Minh,Ph?ªng,?®ng Ph?ªng,Nö
+00125,DO NHU,TAI,TH,  /  /,,?‡ Nh?,Tæi,Tin H„c,Nam
+00127,TRANG HOAI THU,THAO,KA,  /  /,N,Trang Hoæi Thu,Th?o,Kinh Th?ªng (AV),Nö
+00129,TRAN DINH,TUAN,DP,10/08/77,,Tr€n ??nh,Tu?n,?®ng Ph?ªng,Nam
+00132,NGUYEN DUC,CHAU,AV,20/02/61,N,Nguy?n ??c,Ch?u,Anh V?n,Nö
+00133,TRAN THI KIM,CHI,AV,01/09/74,N,Tr€n Th? Kim,Chi,Anh V?n,Nö
+00138,HO TO,LIEN,DP,08/12/80,N,H† TŠ,Li¦n,?®ng Ph?ªng,Nö
+00139,CHENH CAO NGOC,LINH,DP,16/12/81,N,Ch?nh Cao Ng„c,Linh,?®ng Ph?ªng,Nö
+00143,HOANG NGUYEN,PHUONG,DP,01/03/82,N,Hoæng Nguy¦n,Ph?ªng,?®ng Ph?ªng,Nö
+00144,VU VAN MINH,QUANG,TH,  /  /,,V• V?n Minh,Quang,Tin H„c,Nam
+00146,HUYNH THI THU,THAO,DP,15/11/81,N,Hu£nh Th? Thu,Th?o,?®ng Ph?ªng,Nö
+00150,CHAU THI LE,YEN,AV,11/08/57,N,Ch?u Th? L™,Y?n,Anh V?n,Nö
+00151,NGUYEN THI PHUONG,ANH,AV,26/03/69,N,Nguy?n Th? Ph?ªng,Anh,Anh V?n,Nö
+00163,NGUYEN SONG BICH,KHUYEN,KA,  /  /,N,Nguy?n Song B?ch,Khuy¦n,Kinh Th?ªng (AV),Nö
+00165,PHAM DUC,THANH,TH,  /  /,,Ph?m ??c,Thænh,Tin H„c,Nam
+00167,DO DINH,TRANG,TH,01/07/71,,?‡ ??nh,Trang,Tin H„c,Nam
+00171,LY QUYNH,ANH,KA,  /  /,N,L? Qu£nh,Anh,Kinh Th?ªng (AV),Nö
+00174,MAI TIEN,DOANH,KA,  /  /,,Mai Ti?n,Doanh,Kinh Th?ªng (AV),Nam
+00175,NGUYEN THI THU,HIEN,AV,13/06/71,N,Nguy?n Th? Th?,Hi¦n,Anh V?n,Nö
+00178,DOAN KIM,KHOA,DL,  /  /,N,?oæn Kim,Khoa,Du l?ch (AV),Nö
+00179,PHAM DANG,KHOA,DL,  /  /,,Ph?m ??ng,Khoa,Du l?ch (AV),Nam
+00181,QUACH THI UYEN,LINH,QH,10/09/80,N,Qu?ch Th? Uy¦n,Linh,Quan h™ QuŠc t?,Nö
+00182,PHAM DINH,THANG,TH,11/12/83,,Ph?m ??nh,Th?ng,Tin H„c,Nam
+00183,TRAM VU XUAN,MINH,DL,  /  /,N,Tr€m V• Xu?n,Minh,Du l?ch (AV),Nö
+00184,TRAN VIET,NHAN,DL,  /  /,,Tr€n Vi™t,Nh?n,Du l?ch (AV),Nam
+00188,VO THI HONG,THAM,TH,01/08/82,N,Vƒ Th? H†ng,Th?m,Tin H„c,Nö
+00191,PHAM THI BICH,TIEN,KA,  /  /,N,Ph?m Th? B?ch,Ti¦n,Kinh Th?ªng (AV),Nö
+00194,PHAN THI THANH,XUYEN,DP,26/02/80,N,Phan Th? Thanh,Xuy¦n,?®ng Ph?ªng,Nö
+00201,DINH,HUNG,TH,21/11/66,,?inh,H‹ng,Tin H„c,Nam
+00205,TRAN QUANG,MINH,DL,  /  /,,Tr€n Quang,Minh,Du l?ch (AV),Nam
+00206,HUYNH THI LE,MY,KA,  /  /,N,Hu£nh Th? L™,My,Kinh Th?ªng (AV),Nö
+00215,BUI TRAM,ANH,AV,20/09/88,N,B‹i Tr?m,Anh,Anh V?n,Nö
+00216,MAI THI KIM,DUNG,QH,08/10/80,N,Mai Th? Kim,Dung,Quan h™ QuŠc t?,Nö
+00217,LE HONG,DUNG,QH,20/09/88,N,L¦ H†ng,Dung,Quan h™ QuŠc t?,Nö
+00220,LUONG HOANG BICH,TRANG,VB2,15/11/86,N,L?ªng Hoæng B?ch,Trang,VP Khoa V?n b¯ng 2,Nö
+00222,NGO TUYET DIEM,KHANH,DL,19/09/85,N,Ng® Tuy?t Di?m,Kh?nh,Du l?ch (AV),Nö
+00224,DO DIEU,LINH,DL,  /  /,N,?‡ Di™u,Linh,Du l?ch (AV),Nö
+00229,NGUYEN HA,THUY,KA,22/06/79,N,Nguy?n Hæ,Th¤y,Kinh Th?ªng (AV),Nö
+00233,NGUYEN HOANG MY,NHIEN,QH,06/10/89,N,Nguy?n Hoæng M,Nhi¦n,Quan h™ QuŠc t?,Nö
+00234,PHAN THI CONG,MINH,KA,19/12/78,N,Phan Th? C®ng,Minh,Kinh Th?ªng (AV),Nö
+00235,DO THE,LUAN,TH,14/03/15,,?‡ Th?,Lu?n,Tin H„c,Nam
+00236,NGUYEN QUOC,HUY,TH,18/12/78,,Nguy?n QuŠc,Huy,Tin H„c,Nam
+00237,TRAN VO HOANG,HAI,AV,11/10/85,,Tr€n Vƒ Hoæng,H?i,Anh V?n,Nam
+00243,HUYNH THI LAN,ANH,AV,  /  /68,N,Hu£nh Th? Lan,Anh,Anh V?n,Nö
+00244,TRAN XUAN,BINH,AV,  /  /56,,Tr€n Xu?n,B?nh,Anh V?n,Nam
+00245,PHAN THI THANH,DAO,AV,  /  /72,N,Phan Th? Thanh,?æo,Anh V?n,Nö
+00246,TRAN THI MY,DUNG,AV,  /  /54,N,Tr€n Th? M,Dung,Anh V?n,Nö
+00247,LE VAN,DUOC,AV,  /  /,,L¦ V?n,??Œc,Anh V?n,Nam
+00248,TRAN CAN,GIAO,AV,  /  /81,N,Tr€n C?n,Giao,Anh V?n,Nö
+00249,VU LOC,HA,AV,  /  /57,N,V• L‚c,Hæ,Anh V?n,Nö
+00250,LE THUY,HANG,AV,  /  /61,N,L¦ Th¢y,H¯ng,Anh V?n,Nö
+00251,TRAN HUU,HANH,AV,  /  /69,,Tr€n Höu,H?nh,Anh V?n,Nam
+00252,NGUYEN THI HONG,HANH,AV,  /  /,N,Nguy?n Th? H†ng,H?nh,Anh V?n,Nö
+00253,NGUYEN THI,HANH,AV,  /  /68,N,Nguy?n Th?,H?nh,Anh V?n,Nö
+00254,NGUYEN VAN,HUNG,AV,  /  /53,,Nguy?n V?n,H‹ng,Anh V?n,Nam
+00255,NGUYEN VAN,KET,AV,  /  /57,,Nguy?n V?n,K?t,Anh V?n,Nam
+00256,DO THI,LAN,AV,  /  /63,N,?‡ Th?,Lan,Anh V?n,Nö
+00257,VU THI,LAN,AV,  /  /,N,V• Th?,Lan,Anh V?n,Nö
+00258,PHAN HUU,LE,AV,  /  /54,,Phan Höu,L?,Anh V?n,Nam
+00259,DANG THI MY,LOAN,AV,  /  /53,N,?’ng Th? M,Loan,Anh V?n,Nö
+00260,VO VAN,NAM,AV,  /  /54,,Vƒ V?n,Nam,Anh V?n,Nam
+00261,NGUYEN MY,PHUONG,AV,  /  /80,N,Nguy?n M,Ph?ªng,Anh V?n,Nö
+00262,TRAN THI LAN,PHUONG,AV,  /  /80,N,Tr€n Th? Lan,Ph?ªng,Anh V?n,Nö
+00263,ONG VAN MINH,TAM,AV,  /  /55,,?ng V?n Minh,T?m,Anh V?n,Nam
+00264,NGUYEN HUU,THO,AV,  /  /17,,Nguy?n Höu,Th„,Anh V?n,Nam
+00265,NGO THI CAM,THUY,AV,  /  /71,N,Ng® Th? C?m,Th‹y,Anh V?n,Nö
+00266,DAO HOANG,TRUNG,AV,  /  /49,,?æo Hoæng,Trung,Anh V?n,Nam
+00268,LE BAO,VI,AV,  /  /83,N,L¦ B?o,Vi,Anh V?n,Nö
+00269,NGUYEN GIA TUAN,ANH,TH,  /  /64,,Nguy?n Gia Tu?n,Anh,Tin H„c,Nam
+00270,VO DINH,BAY,TH,  /  /74,,Vƒ ??nh,B?y,Tin H„c,Nam
+00271,TA DUY CONG,CHIEN,TH,  /  /65,,T? Duy C®ng,Chi?n,Tin H„c,Nam
+00272,THAI KHAC,DINH,TH,  /  /52,,Th?i Kh?c,??nh,Tin H„c,Nam
+00273,DUONG MINH,DUC,TH,  /  /74,,D?ªng Minh,??c,Tin H„c,Nam
+00274,NGUYEN TRUNG,DUNG,TH,  /  /71,,Nguy?n Trung,D•ng,Tin H„c,Nam
+00275,NGUYEN VAN,HIEP,TH,  /  /59,,Nguy?n V?n,Hi™p,Tin H„c,Nam
+00276,NGUYEN DINH,HUY,TH,  /  /57,,Nguy?n ??nh,Huy,Tin H„c,Nam
+00277,VO NGUYEN DANG,KHOA,TH,  /  /72,,Vƒ Nguy?n ??ng,Khoa,Tin H„c,Nam
+00278,DANG TUAN,NGHIA,TH,  /  /75,,?’ng Tu?n,Nghša,Tin H„c,Nam
+00279,DO VAN,NHON,TH,  /  /62,,?‡ V?n,Nhªn,Tin H„c,Nam
+00280,NGUYEN CHINH,THANG,TH,  /  /,,Nguy?n Ch?nh,Th?ng,Tin H„c,Nam
+00281,HUYNH MINH,TRI,TH,  /  /57,,Hu£nh Minh,Tr?,Tin H„c,Nam
+00282,NGUYEN CHANH,THANH,TH,  /  /72,,Nguy?n Ch?nh,Thænh,Tin H„c,Nam
+00283,NGUYEN DINH,TUAN,TH,  /  /73,,Nguy?n ??nh,Tu?n,Tin H„c,Nam
+00284,HUYNH PHUONG,ANH,DP,  /  /82,N,Hu£nh Ph?ªng,Anh,?®ng Ph?ªng,Nö
+00285,NGUYEN HOANG,ANH,DP,  /  /,N,Nguy?n Hoæng,Anh,?®ng Ph?ªng,Nö
+00286,DINH THI,CHIEN,DP,  /  /75,N,?inh Th?,Chi?n,?®ng Ph?ªng,Nö
+00287,NGUYEN HUU,CHUONG,DP,  /  /57,,Nguy?n Höu,Ch?ªng,?®ng Ph?ªng,Nam
+00288,HO HAI,DANG,NB,  /  /84,,H† H?i,??ng,Nh?t B?n,Nam
+00289,TRAN THI MY,DUNG,DP,  /  /87,N,Tr€n Th? M,Dung,?®ng Ph?ªng,Nö
+00290,NGUYEN TRUONG,GIANG,DP,  /  /,,Nguy?n Tr?ˆng,Giang,?®ng Ph?ªng,Nam
+00291,HUYNH VU TUAN,HA,TL,  /  /77,,Hu£nh V• Tu?n,Hæ,Th?i Lan,Nam
+00292,DO THI,HANH,DP,  /  /64,N,?‡ Th?,H?nh,?®ng Ph?ªng,Nö
+00293,HUYNH THI HONG,HANH,DP,  /  /68,N,Hu£nh Th? H†ng,H?nh,?®ng Ph?ªng,Nö
+00294,PHAM THI THUY,LINH,DP,  /  /86,N,Ph?m Th? Th‹y,Linh,?®ng Ph?ªng,Nö
+00295,HOANG THI HONG,LOAN,DP,  /  /67,N,Hoæng Th? H†ng,Loan,?®ng Ph?ªng,Nö
+00296,TRAN,LONG,DP,  /  /,,Tr€n,Long,?®ng Ph?ªng,Nam
+00297,LY PHONG,MY,TQ,  /  /80,N,L? Phong,M,Trung QuŠc,Nö
+00298,CHU VU NHU,NGUYEN,DP,  /  /,N,Chu V• Nh?,Nguy™n,?®ng Ph?ªng,Nö
+00299,NGUYEN THI,NHAN,DP,  /  /65,N,Nguy?n Th?,Nhæn,?®ng Ph?ªng,Nö
+00300,VO TUYET,NHUNG,DP,  /  /79,N,Vƒ Tuy?t,Nhung,?®ng Ph?ªng,Nö
+00301,TRAN THI,NHAN,DP,  /  /63,N,Tr€n Th?,Nhæn,?®ng Ph?ªng,Nö
+00302,NGUYEN THANH,PHAT,DP,  /  /63,,Nguy?n Thænh,Ph?t,?®ng Ph?ªng,Nam
+00303,HOANG THO,PHU,DP,  /  /71,,Hoæng Th„,Ph¢,?®ng Ph?ªng,Nam
+00304,NGUYEN THI,SU,DP,  /  /47,N,Nguy?n Th?,S”,?®ng Ph?ªng,Nö
+00305,NGUYEN TU THANH,THAO,DP,  /  /80,N,Nguy?n T? Thanh,Th?o,?®ng Ph?ªng,Nö
+00306,TU THANH,THAO,DP,  /  /82,,T? Thanh,Th?o,?®ng Ph?ªng,Nam
+00307,PHAM QUOC,THUAN,DP,  /  /74,,Ph?m QuŠc,Thu€n,?®ng Ph?ªng,Nam
+00308,NGUYEN THI KHIEM,TI,DP,  /  /18,N,Nguy?n Th? Khi¦m,Ti,?®ng Ph?ªng,Nö
+00309,NGUYEN THI,TINH,DP,  /  /79,N,Nguy?n Th?,T?nh,?®ng Ph?ªng,Nö
+00310,NGUYEN BAO,TRAM,DP,  /  /,N,Nguy?n B?o,Tr?m,?®ng Ph?ªng,Nö
+00311,LE THI DIEU,UYEN,DP,  /  /79,N,L¦ Th? Di™u,Uy¦n,?®ng Ph?ªng,Nö
+00312,THACH VAN,VIET,DP,  /  /,,Th?ch V?n,Vi™t,?®ng Ph?ªng,Nam
+00313,NGUYEN THI,YEN,DP,  /  /60,N,Nguy?n Th?,Y¦n,?®ng Ph?ªng,Nö
+00314,PHAM THI PHI,YEN,DP,  /  /54,N,Ph?m Th? Phi,Y?n,?®ng Ph?ªng,Nö
+00315,TAKAISHI,SATOSHI,NB,  /  /57,,Takaishi,Satoshi,Nh?t B?n,Nam
+00316,LEE,MOONOK,HQ,  /  /65,,Lee,Moonok,Hæn QuŠc,Nam
+00317,YOON HAN,YEOL,HQ,  /  /,,Yoon Han,Yeol,Hæn QuŠc,Nam
+00318,LIM SI,YOUN,HQ,  /  /70,,Lim Si,Youn,Hæn QuŠc,Nam
+00319,PHAM CAO,BANG,QH,  /  /76,,Ph?m Cao,B¯ng,Quan h™ QuŠc t?,Nam
+00320,LE VAN,BAY,QH,  /  /,,L¦ V?n,B?y,Quan h™ QuŠc t?,Nam
+00321,TRAN THI LINH,CAM,QH,  /  /61,N,Tr€n Th? Linh,C?m,Quan h™ QuŠc t?,Nö
+00322,VU DUY,CUONG,QH,  /  /76,,V• Duy,C?ªng,Quan h™ QuŠc t?,Nam
+00323,PHO TUYET TRUONG,GIANG,QH,  /  /82,N,Ph? Tuy?t Tr?ˆng,Giang,Quan h™ QuŠc t?,Nö
+00324,NGUYEN THI HUONG,GIANG,QH,  /  /83,N,Nguy¦n Th? H?ªng,Giang,Quan h™ QuŠc t?,Nö
+00325,PHAM MINH,HA,QH,  /  /,N,Ph?m Minh,Hæ,Quan h™ QuŠc t?,Nö
+00326,LE PHUNG,HOANG,QH,  /  /56,,L¦ Ph“ng,Hoæng,Quan h™ QuŠc t?,Nam
+00327,TRAN THE,HUONG,QH,  /  /57,,Tr€n Th?,H?‰ng,Quan h™ QuŠc t?,Nam
+00328,NGUYEN TRAN NHU,KHUE,QH,  /  /,N,Nguy?n Tr€n Nh?,Khu¦,Quan h™ QuŠc t?,Nö
+00329,KHONG THI THANH,LOAN,QH,  /  /78,N,Kh‘ng Th? Thanh,Loan,Quan h™ QuŠc t?,Nö
+00330,PHAN HOAI,NAM,QH,  /  /82,,Phan Hoæi,Nam,Quan h™ QuŠc t?,Nam
+00331,PHAM DINH,NGHIEM,QH,  /  /61,N,Ph?m ??nh,Nghi™m,Quan h™ QuŠc t?,Nö
+00333,HA TRONG,THA,QH,  /  /76,,Hæ Tr„ng,Thæ,Quan h™ QuŠc t?,Nam
+00334,HOANG THI PHUONG,THAO,QH,  /  /,N,Hoæng Th? Ph?ªng,Th?o,Quan h™ QuŠc t?,Nö
+00335,TRINH TIEN,THUAN,QH,  /  /55,,Tr?nh Ti?n,Thu?n,Quan h™ QuŠc t?,Nam
+00336,PHAM DUC,TRONG,QH,  /  /53,,Ph?m ??c,Tr„ng,Quan h™ QuŠc t?,Nam
+00337,NGUYEN THI,YEN,QH,  /  /60,N,Nguy?n Th?,Y¦n,Quan h™ QuŠc t?,Nö
+00338,NGUYEN DUC HOAI,ANH,KA,  /  /75,N,Nguy?n ??c Hoæi,Anh,Kinh Th?ªng (AV),Nö
+00339,NGUYEN HONG,ANH,KA,  /  /74,N,Nguy?n H†ng,Anh,Kinh Th?ªng (AV),Nö
+00340,VU TRAM,ANH,AV,  /  /71,N,V• Tr?m,Anh,Anh V?n,Nö
+00341,LE HA,CHAU,KA,  /  /73,N,L¦ Hæ,Ch?u,Kinh Th?ªng (AV),Nö
+00342,PHAM TRI,CUONG,KA,  /  /70,,Ph?m Tr?,C?ˆng,Kinh Th?ªng (AV),Nam
+00343,PHAM VAN,DAT,KA,  /  /72,,Ph?m V?n,??t,Kinh Th?ªng (AV),Nam
+00344,NGUYEN THI THUY,DIEM,KA,  /  /72,N,Nguy?n Th? Th‹y,Di?m,Kinh Th?ªng (AV),Nö
+00345,LE THI NGOC,DIEP,KA,  /  /72,N,L¦ Th? Ng„c,?i™p,Kinh Th?ªng (AV),Nö
+00346,BUI THI PHUONG,DUNG,KA,  /  /63,N,B‹i Th? Ph?ªng,Dung,Kinh Th?ªng (AV),Nö
+00347,PHAN THI HONG,HANH,KA,  /  /81,N,Phan Th? H†ng,H?nh,Kinh Th?ªng (AV),Nö
+00348,PHAN ANH,HOANG,KA,  /  /,,Phan Anh,Hoæng,Kinh Th?ªng (AV),Nam
+00349,NGUYEN THI HOANG,HOANH,KA,  /  /54,N,Nguy?n Th? Hoæng,Hoanh,Kinh Th?ªng (AV),Nö
+00350,CHAU QUOC,KY,KA,  /  /53,,Ch?u QuŠc,K–,Kinh Th?ªng (AV),Nam
+00351,VO THI THANH,NGA,KA,  /  /80,N,Vƒ Th? Thanh,Nga,Kinh Th?ªng (AV),Nö
+00352,BUI MY,NGOC,KA,  /  /68,,B‹i M,Ng„c,Kinh Th?ªng (AV),Nam
+00353,DO HOANG AN,NHIEN,KA,  /  /83,N,?‡ Hoæng An,Nhi¦n,Kinh Th?ªng (AV),Nö
+00354,NGUYEN THI THU,OANH,KA,  /  /57,N,Nguy?n Th? Thu,Oanh,Kinh Th?ªng (AV),Nö
+00355,NGO VAN,PHONG,KA,  /  /70,,Ng® V?n,Phong,Kinh Th?ªng (AV),Nam
+00356,TRAN THANH,PHONG,KA,  /  /72,,Tr€n Thanh,Phong,Kinh Th?ªng (AV),Nam
+00357,NGUYEN TUAN,PHUC,KA,  /  /54,,Nguy?n Tu?n,Ph¢c,Kinh Th?ªng (AV),Nam
+00358,HO NHAT,QUANG,KA,  /  /66,,H† Nh?t,Quang,Kinh Th?ªng (AV),Nam
+00359,NGUYEN XUAN,QUANG,KA,  /  /60,,Nguy?n Xu?n,Quang,Kinh Th?ªng (AV),Nam
+00360,CAO THI,SON,KA,  /  /57,N,Cao Th?,Sªn,Kinh Th?ªng (AV),Nö
+00361,TRAN VIET,THANG,KA,  /  /57,,Tr€n Vi™t,Th?ng,Kinh Th?ªng (AV),Nam
+00362,NGUYEN THI,THIEU,KA,  /  /80,N,Nguy?n Th?,Thi?u,Kinh Th?ªng (AV),Nö
+00363,TO MINH,THU,KA,  /  /,N,T® Minh,Th?,Kinh Th?ªng (AV),Nö
+00364,VO VAN THANH,TIN,KA,  /  /,,Vƒ V?n Thænh,T?n,Kinh Th?ªng (AV),Nam
+00365,THAN TON TRONG,TIN,KA,  /  /64,,Th?n T®n Tr„ng,T?n,Kinh Th?ªng (AV),Nam
+00366,LE QUYEN THUY,TRANG,KA,  /  /82,N,L¦ Quy¦n Th‹y,Trang,Kinh Th?ªng (AV),Nö
+00367,NHAN CAM,TRI,KA,  /  /76,,Nhan C?m,Tr?,Kinh Th?ªng (AV),Nam
+00368,TRAN QUOC,TRUNG,KA,  /  /86,,Tr€n QuŠc,Trung,Kinh Th?ªng (AV),Nam
+00369,NGO THI KIM,TRUONG,KA,  /  /65,N,Ng® Th? Kim,Tru®ng,Kinh Th?ªng (AV),Nö
+00370,PHAN NGOC,DUNG,DL,  /  /48,N,Phan Ng„c,Dung,Du l?ch (AV),Nö
+00371,VO THI BICH,HANH,DL,  /  /,N,Vƒ Th? B?ch,H?nh,Du l?ch (AV),Nö
+00372,NGUYEN THI NGOC,HANH,DL,  /  /52,N,Nguy?n Th? Ng„c,H?nh,Du l?ch (AV),Nö
+00373,LE HUYNH,HOA,DL,  /  /59,N,L¦ Hu£nh,Hoa,Du l?ch (AV),Nö
+00374,PHAM THI,HONG,DL,  /  /,N,Ph?m Th?,H†ng,Du l?ch (AV),Nö
+00375,THAI MY,LIEN,DL,  /  /,N,Th?i M,Li¦n,Du l?ch (AV),Nö
+00376,LUONG THI,PHUONG,DL,  /  /,N,L?ªng Th?,Ph?Œng,Du l?ch (AV),Nö
+00377,BUI MINH,TAM,DL,  /  /85,N,B‹i Minh,T?m,Du l?ch (AV),Nö
+00378,LE MINH,THANH,DL,  /  /78,,L¦ Minh,Thænh,Du l?ch (AV),Nam
+00379,TRAN VIET THUY,TIEN,DL,  /  /83,N,Tr€n Vi™t Th¤y,Ti¦n,Du l?ch (AV),Nö
+00380,NGUYEN VAN,TOAN,DL,  /  /75,,Nguy?n V?n,Toæn,Du l?ch (AV),Nam
+00381,PHAM VAN,BOONG,ML,  /  /53,,Ph?m V?n,Boong,Tri?t h„c væ M?c L¦ Nin,Nam
+00382,NGUYEN HUU,CHI,ML,  /  /,,Nguy?n Höu,Ch?,Tri?t h„c væ M?c L¦ Nin,Nam
+00383,TRAN NHU,CUONG,ML,  /  /52,,Tr€n Nh?,C?ªng,Tri?t h„c væ M?c L¦ Nin,Nam
+00384,PHAN VAN,DIEN,ML,  /  /59,,Phan V?n,?i?n,Tri?t h„c væ M?c L¦ Nin,Nam
+00385,TRAN KY,DONG,ML,  /  /59,,Tr€n K£,?†ng,Tri?t h„c væ M?c L¦ Nin,Nam
+00386,HUYNH THI,GAM,ML,  /  /,N,Hu£nh Th?,G?m,Tri?t h„c væ M?c L¦ Nin,Nö
+00387,NGUYEN THI THU,HA,ML,  /  /62,N,Nguy?n Th? Thu,Hæ,Tri?t h„c væ M?c L¦ Nin,Nö
+00388,PHAM NHU,HAI,ML,  /  /40,,Ph?m Nh?,H?i,Tri?t h„c væ M?c L¦ Nin,Nam
+00389,DAO THI BICH,HONG,ML,  /  /,N,?æo Th? B?ch,H†ng,Tri?t h„c væ M?c L¦ Nin,Nö
+00390,PHAN THI LE,HUONG,ML,  /  /61,N,Phan Th? L™,H?ªng,Tri?t h„c væ M?c L¦ Nin,Nö
+00391,NGUYEN THANH,PHU,ML,  /  /34,,Nguy?n Thænh,Ph¢,Tri?t h„c væ M?c L¦ Nin,Nam
+00392,NGUYEN SY,PHUONG,ML,  /  /58,N,Nguy?n S,Ph?Œng,Tri?t h„c væ M?c L¦ Nin,Nö
+00393,LUONG VAN,TAM,ML,  /  /60,,L?ªng V?n,T?m,Tri?t h„c væ M?c L¦ Nin,Nam
+00394,NGUYEN DE,THUY,ML,  /  /62,N,Nguy?n ??,Th¤y,Tri?t h„c væ M?c L¦ Nin,Nö
+00395,NGUYEN TRUNG,TINH,ML,  /  /54,,Nguy?n Trung,T?nh,Tri?t h„c væ M?c L¦ Nin,Nam
+00397,NGUYEN HUU,VUONG,ML,  /  /48,,Nguy?n Höu,V?Œng,Tri?t h„c væ M?c L¦ Nin,Nam
+00398,NGUYEN NGOC,ANH,KA,  /  /55,,Nguy?n Ng„c,?nh,Kinh Th?ªng (AV),Nam
+00399,NGUYEN VAN,KHANH,KA,  /  /48,N,Nguy?n V?n,Khanh,Kinh Th?ªng (AV),Nö
+00400,NGUYEN THI XUAN,LAN,KA,  /  /61,N,Nguy?n Th? Xu?n,Lan,Kinh Th?ªng (AV),Nö
+00401,THAI THI,MO,KA,  /  /,N,Th?i Th?,Mª,Kinh Th?ªng (AV),Nö
+00402,BUI THI PHUONG,THAO,KA,  /  /56,N,B‹i Th? Ph?ªng,Th?o,Kinh Th?ªng (AV),Nö
+00403,NGUYEN TAN,QUANG,KA,  /  /67,,Nguy?n T?n,Quang,Kinh Th?ªng (AV),Nam
