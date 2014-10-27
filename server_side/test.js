@@ -23,18 +23,13 @@
     app.get('/', function(req, res){
         model.find(function(err,data) {
             //res.write('');
-            data.forEach(function(item){
-                res.write('<br/>');
-                res.write(urlEncode(item.f_holotcbv));
-            });
+            res.send(data);
             res.end();
         });
     });
     app.get('/:id', function(req, res){
         model.find({'f_manv' : req.params.id}, function(err,data) {
-            data.forEach(function(item){
-                res.send(urlEncode(item.f_holotcbv));
-            });
+            res.write(data.toString('utf8'));
             res.end();
         });
     });

@@ -8,6 +8,7 @@
     var counterSchema = schema.counterSchema;
 
     // Date Excel Luu image txt
+    
     //getData static method
     counterSchema.statics.getCount = function (name, callback){
         this.model('teacher1s').findOne({'_id': name}).exec(function(err,data){
